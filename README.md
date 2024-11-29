@@ -129,6 +129,40 @@ The requesting APRS device sends programmed location. For devices with GPS enabl
 *   430.5125 MHz -- Netherlands (UHF)
 *   432.500 MHz  -- Europe (UHF)
 
+#### Battery Performance
++++++++++++++++++++++++++++++
+               
+#1: APRS Test      
+---------------   Rx / Tx    { Tx=1 : Rx=3  /min  } 
+
+TH-D74 ( 6 yrs Old )
+               Start: Nov 27 16:59:39 rPi5 openwebrx
+                End:  Nov 28 01:36:07 rPi5 openwebrx
+
+        Duration: 8.5 hrs  
+
+TH-D72 (5.5 ysr Old)
+               Start: Nov 27 17:04:17 rPi5 openwebrx
+                 End: Nov 28 04:23:08 rPi5 openwebrx
+
+       Duration: 11.33 hrs
+
+FT2D  (5.5 yrs Old )
+               Start: Nov 27 17:01:14 rPi5 openwebrx
+                 End: Nov 28 08:20:30 rPi5 openwebrx
+
+       Duration:  15.33 hrs
+
+FT3D ( 5 yrs Old )
+               Start: Nov 27 17:00:19 rPi5 openwebrx
+                End: Nov 28 08:29:34 rPi5 openwebrx
+
+        Duration:  15.5 hrs
+------------------------------------------------------
+
+#2:  D-Star Rx
+             13 hrs    {12:55:47 } TH-D74, 
+
 #### Portland Amateur Radio Club
 
 *   146.840 MHz (-600) - The club's main repeater, located in Washington, can reach as far south as Eugene, West to Astoria, East to Hood River and North to Longview.
