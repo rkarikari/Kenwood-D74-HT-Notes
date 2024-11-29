@@ -130,7 +130,7 @@ The requesting APRS device sends programmed location. For devices with GPS enabl
 *   432.500 MHz  -- Europe (UHF)
 
 
-++
+''
  HT Battery performance
 +++++++++++++++++++++++++++++
  ( Avg. yearly temp 32° C )
@@ -176,7 +176,7 @@ FT3D ( 5 yrs Old )
 
 #2:  D-Star Rx
              13 hrs    {12:55:47 } TH-D74, 
-++
+''
 
 
 #### Portland Amateur Radio Club
