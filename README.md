@@ -132,13 +132,12 @@ The requesting APRS device sends programmed location. For devices with GPS enabl
 
 
 |
-
  HT Battery performance
 +++++++++++++++++++++++++++++
  ( Avg. yearly temp 32° C )
 
 Test setup:
-                  GPS on, Powersave on (2s), Tx Power EL 
+                  GPS on, Powersave on, Tx Power EL 
 Devices: 
                    TH-D74, TH-D72, FT2D, FT3D
 Monitor: 
@@ -156,6 +155,7 @@ TH-D74 ( 6 yrs Old )
         Duration: 8.5 hrs    { APRS  1 Tx,3 Rx /min }
 
 TH-D72 (5.5 ysr Old)
+           Powersave : On, 1sec
                Start: Nov 27 17:04:17 rPi5 openwebrx
                 End: Nov 28 04:23:08 rPi5 openwebrx
 
@@ -177,9 +177,7 @@ FT3D ( 5 yrs Old )
 ------------------------------------------------------
 
 #2:  D-Star Rx
-             13 hrs    {12:55:47 } TH-D74, 
-
-             
+             13 hrs    {12:55:47 } TH-D74            
 |
 
 
